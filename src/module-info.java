@@ -1,0 +1,2 @@
+module lean_java {
+}
